@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hey there! 👋 I'm Kumar Shivam</h1>
 
-<h3 align="center">🚀 A Passionate Developer & Problem Solver from India</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I+love+to+build+awesome+things!;Always+learning+new+tech.;Open+Source+Contributor+%F0%9F%92%AA;Let's+connect!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I+build+cool+stuff.;I+break+things+to+fix+them.;Open+Source+Forever+❤️;Let%27s+code+together!+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,17 +30,19 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="300" alt="Coding GIF" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
-✨ **Who am I?**  
-I’m Kumar Shivam — an explorer who loves solving real-world problems with clean code. I work with diverse stacks from **C++** to **Cloud**, and enjoy building fun projects, tools, and community-driven stuff.
-
-- 🔭 I’m currently working on **[Your Cool Project or Learning]**
-- 🌱 I’m learning **Cloud, ML Ops & Next.js**
-- 💬 Ask me about **Web Dev, Python, C++, or anything Tech!**
-- ⚡ Fun Fact: I love coffee ☕, design 🎨, and open source ❤️.
+- 🔭 Currently working on **awesome side-projects**
+- 🌱 Learning **Cloud, ML, Next.js & more**
+- 💬 Ask me about **Fullstack, Python, C++, Open Source**
+- 🧩 Fun: I love puzzles, games, & building communities!
+- ⚡ Fun Fact: I live on ☕ and bad puns.
 
 ---
 
@@ -51,16 +50,16 @@ I’m Kumar Shivam — an explorer who loves solving real-world problems with cl
 
 <p align="center">
   <a href="https://linkedin.com/in/kumarshivam.new" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/kumarshivam2s" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://fb.com/kumarshivam2s" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/kumarshivam2s" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -87,7 +86,7 @@ I’m Kumar Shivam — an explorer who loves solving real-world problems with cl
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumarshivam2s&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kumarshivam2s&theme=onedark&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
@@ -108,6 +107,24 @@ I’m Kumar Shivam — an explorer who loves solving real-world problems with cl
 
 ---
 
+## 🌍 Visitor World Map
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=kumarshivam2s&label=Visitors&countColor=%23263759&style=flat" alt="Visitor Badge"/>
+</p>
+
+---
+
+## 🐍 Play with my Snake
+
+<p align="center">
+  <img src="https://github.com/kumarshivam2s/kumarshivam2s/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+> *This snake eats your contributions — keep feeding it!* 🐍✨
+
+---
+
 ## ☕ Support Me
 
 <p align="center">
@@ -118,11 +135,6 @@ I’m Kumar Shivam — an explorer who loves solving real-world problems with cl
 
 ---
 
-## 🔥 Fun Fact
+<p align="center">✨ Thanks for visiting! Keep coding and stay awesome! 🚀</p>
 
-> *"Code, Coffee, Repeat ☕🚀"*
-
----
-
-<p align="center">✨ Thanks for visiting! Let’s build something amazing together! 🚀</p>
 
