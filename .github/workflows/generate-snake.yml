@@ -1,0 +1,37 @@
+name: Generate Snake Contribution Grid
+
+on:
+  # Run automatically every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Also run on any manual push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Get the snake generator code from Platane
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # Generate the snake SVG in output/
+      - name: Generate GitHub contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Push the generated snake SVG to the output branch
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
