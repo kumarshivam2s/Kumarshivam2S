@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋
 
-**kumarshivam2s/Kumarshivam2S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kumarshivam2s/kumarshivam2s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
