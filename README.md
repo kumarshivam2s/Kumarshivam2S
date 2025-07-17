@@ -122,7 +122,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/kumarshivam2s/kumarshivam2s/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-![Snake animation](https://github.com/kumarshivam2s/kumarshivam2s/raw/output/github-contribution-grid-snake.svg)
 
 
 > *This snake eats your contributions — keep feeding it!* 🐍✨
